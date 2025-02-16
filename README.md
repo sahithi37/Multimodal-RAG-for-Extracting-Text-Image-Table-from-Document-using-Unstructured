@@ -1,4 +1,4 @@
-📄 Multimodal RAG for Document Processing 🔍
+# Multimodal RAG for Document Processing 🔍
 📌 Project Overview
 This project implements a Multimodal Retrieval-Augmented Generation (RAG) pipeline to extract and process text, images, and tables from PDFs.
 It leverages OCR (Tesseract) and Unstructured to intelligently categorize document elements for AI-driven analysis.
